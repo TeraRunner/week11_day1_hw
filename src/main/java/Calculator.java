@@ -1,4 +1,5 @@
 public class Calculator {
+
     public int number1;
     public int number2;
 
@@ -32,8 +33,3 @@ public class Calculator {
     }
 
 }
-
-//Calculator
-//Create a Calculator class. This should have functions for Add, Subtract,
-// Multiply and Divide, each taking in two integers to perform the
-// calculations on.
